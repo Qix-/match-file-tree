@@ -1,4 +1,4 @@
-# match-file-tree
+# match-file-tree [![CircleCI](https://circleci.com/gh/Qix-/match-file-tree.svg?style=svg)](https://circleci.com/gh/Qix-/match-file-tree)
 
 A simple alternative to `globby` when a regex will suffice.
 
