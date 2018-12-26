@@ -5,7 +5,6 @@ A simple alternative to `globby` when a regex will suffice.
 ```javascript
 const matchFileTree = require('match-file-tree');
 
-
 matchFileTree(/\.js$/).then(results => console.log(result));
 ```
 
