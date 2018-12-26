@@ -1,0 +1,30 @@
+{
+  "name": "match-file-tree",
+  "version": "0.1.0",
+  "description": "Lightweight regex based file tree traversal",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "scripts": {
+    "pretest": "xo",
+    "test": "best"
+  },
+  "keywords": [
+    "file",
+    "tree",
+    "traversal",
+    "discover",
+    "files",
+    "glob",
+    "regex"
+  ],
+  "author": "Josh Junon <josh@junon.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@zeit/best": "^0.4.3",
+    "xo": "^0.23.0"
+  }
+}
